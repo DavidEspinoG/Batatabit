@@ -1,0 +1,40 @@
+.header--title-container h1 {
+    font-size: 3.5rem;
+}
+.header--title-container p {
+    font-size: 1.8rem;
+}
+
+.header--title-container .header--button {
+    width: 300px;
+    font-size: 1.7rem;
+}
+.main-exchange-container--title h2 {
+    font-size: 4rem;
+}
+.main-exchange-container--title p {
+    font-size: 2rem;
+}
+.main-product-detail--title h2 {
+    font-size: 3.5rem;
+}
+.main-product-detail--title p {
+    font-size: 2rem;
+}
+.main-product-cards--container article p {
+    font-size: 1.5rem;
+}
+.bitcoin-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bitcoin-img-container h2 {
+    font-size: 4rem;
+}
+.plans--title h2 {
+    font-size: 3rem;
+}
+.plans--title p {
+    font-size: 2.5rem;
+}
